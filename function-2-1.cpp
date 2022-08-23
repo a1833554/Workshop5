@@ -47,6 +47,7 @@ cout<<i<<" "<<numbers[i]<<" 8"<<endl;
 break;
 case 9:
 cout<<i<<" "<<numbers[i]<<" 9"<<endl;
+break;
 case 10:
 cout<<i<<" "<<numbers[i]<<" A"<<endl;
 break;
