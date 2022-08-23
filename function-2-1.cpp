@@ -8,7 +8,7 @@ int *readNumbers(){
    int *arr; 
    arr = new int[10];
    for (int i = 0; i < 10; i++){
-    cout<< "Enter Number: ";
+
      cin>>arr[i];
 
    }
